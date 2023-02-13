@@ -1,0 +1,15 @@
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/bin/Debug/net6.0/EstruturaSequencial
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/bin/Debug/net6.0/EstruturaSequencial.deps.json
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/bin/Debug/net6.0/EstruturaSequencial.runtimeconfig.json
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/bin/Debug/net6.0/EstruturaSequencial.dll
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/bin/Debug/net6.0/EstruturaSequencial.pdb
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.csproj.AssemblyReference.cache
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.AssemblyInfoInputs.cache
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.AssemblyInfo.cs
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.csproj.CoreCompileInputs.cache
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.dll
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/obj/Debug/net6.0/refint/EstruturaSequencial.dll
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.pdb
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.genruntimeconfig.cache
+/home/scrviy/Dev/.NET/Projects/EstruturaSequencial/obj/Debug/net6.0/ref/EstruturaSequencial.dll
